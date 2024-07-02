@@ -1,0 +1,1 @@
+Welcome to Pixel Photography! This is the official GitHub repository for our photography portfolio website. Here you will find the codebase, project structure, and documentation for maintaining and contributing to the site.
